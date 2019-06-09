@@ -118,3 +118,5 @@ dmypy.json
 .idea
 **/.vscode/
 **/.idea/
+**/dlib-19.6/
+**/dlib-19.6.tar.bz2
